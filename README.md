@@ -153,7 +153,7 @@ the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers
 - [devicemapper](https://docs.docker.com/storage/storagedriver/device-mapper-driver/)
 - [btrfs](https://docs.docker.com/storage/storagedriver/btrfs-driver/)
 - [zfs](https://docs.docker.com/storage/storagedriver/zfs-driver/)
-
+- [vfs](https://docs.docker.com/storage/storagedriver/vfs-driver/)
 
 ## Contributors
 
