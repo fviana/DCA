@@ -3,13 +3,13 @@
 This guide is intended to be a point of knowledge for everyone who wants to pass [Docker Certified Associate Exam](https://blog.docker.com/2017/09/introducing-docker-global-professional-certification-program/). The main idea is to provide links to every topic in each domain. Preference will always be the official documentation, but feel free to add useful links.
 
 ## Table of Contents:
-1. [Orchestration](https://github.com/Evalle/DCA/blob/master/README.md#domain-1-orchestration-25-of-exam)
 1. [Orchestration](README.md#domain-1-orchestration-25-of-exam)
-2. [Image Creation, Management, and Registry](https://github.com/Evalle/DCA/blob/master/README.md#domain-2-image-creation-management-and-registry-20-of-exam)
-3. [Installation and Configuration](https://github.com/Evalle/DCA/blob/master/README.md#domain-3-installation-and-configuration-15-of-exam)
-4. [Networking](https://github.com/Evalle/DCA/blob/master/README.md#domain-4-networking-15-of-exam)
-5. [Security](https://github.com/Evalle/DCA/blob/master/README.md#domain-5-security-15-of-exam)
-6. [Storage and Volumes](https://github.com/Evalle/DCA/blob/master/README.md#domain-6-storage-and-volumes-10-of-exam)
+1. [Orchestration](README.md#domain-1-orchestration-25-of-exam)
+2. [Image Creation, Management, and Registry](README.md#domain-2-image-creation-management-and-registry-20-of-exam)
+3. [Installation and Configuration](README.md#domain-3-installation-and-configuration-15-of-exam)
+4. [Networking](README.md#domain-4-networking-15-of-exam)
+5. [Security](README.md#domain-5-security-15-of-exam)
+6. [Storage and Volumes](README.md#domain-6-storage-and-volumes-10-of-exam)
 7. [Links](https://github.com/evalle/dca#links)
 
 ## Content
@@ -58,7 +58,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 
 ### Domain 3: Installation and Configuration (15% of exam)
 - [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
-- Complete setup of repo ([CentOS](https://docs.docker.com/install/linux/docker-ce/centos/#set-up-the-repository) / [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository)), [select a storage driver](https://github.com/fviana/DCA/blob/master/README.md#storage-driver), and complete installation of Docker
+- Complete setup of repo ([CentOS](https://docs.docker.com/install/linux/docker-ce/centos/#set-up-the-repository) / [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository)), [select a storage driver](README.md#storage-driver), and complete installation of Docker
 engine on multiple platforms.
 - [Configure logging drivers (splunk, journald, etc)](https://docs.docker.com/config/containers/logging/configure/)
 - [Setup swarm, configure managers, add nodes, and setup backup schedule](https://docs.docker.com/engine/swarm/admin_guide/)
