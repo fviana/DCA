@@ -144,6 +144,17 @@ the filesystem](https://docs.docker.com/storage/storagedriver/#images-and-layers
 - [About the exam](https://success.docker.com/Certification)
 - [Official study guide (PDF)](https://docker.cdn.prismic.io/docker%2Fa2d454ff-b2eb-4e9f-af0e-533759119eee_dca+study+guide+v1.0.1.pdf)
 
+## MORE
+
+### Storage Devices:
+- [aufs](https://docs.docker.com/storage/storagedriver/aufs-driver/)
+- [overlay](https://docs.docker.com/storage/storagedriver/overlayfs-driver/)
+- [overlay2](https://docs.docker.com/storage/storagedriver/overlayfs-driver/)
+- [devicemapper](https://docs.docker.com/storage/storagedriver/device-mapper-driver/)
+- [btrfs](https://docs.docker.com/storage/storagedriver/btrfs-driver/)
+- [zfs](https://docs.docker.com/storage/storagedriver/zfs-driver/)
+
+
 ## Contributors
 
 Thanks to all [contributors!](https://github.com/Evalle/DCA/graphs/contributors)
