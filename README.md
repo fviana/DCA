@@ -16,7 +16,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 ### Domain 3: Installation and Configuration (15% of exam)
 - [Demonstrate the ability to upgrade the Docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-engine---community)
 - Complete setup of repo ([CentOS](https://docs.docker.com/install/linux/docker-ce/centos/#set-up-the-repository) / [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository)), [select a storage driver](README.md#storage-driver), and complete installation of Docker
-engine on multiple platforms([RHEL](https://docs.docker.com/ee/docker-ee/rhel/),[Ubuntu](https://docs.docker.com/ee/docker-ee/ubuntu/),[Windows](https://docs.docker.com/ee/docker-ee/windows/docker-ee/)).
+engine on multiple platforms ([RHEL](https://docs.docker.com/ee/docker-ee/rhel/),[Ubuntu](https://docs.docker.com/ee/docker-ee/ubuntu/),[Windows](https://docs.docker.com/ee/docker-ee/windows/docker-ee/)).
 - [Configure logging drivers (splunk, journald, etc)](https://docs.docker.com/config/containers/logging/configure/)
 - [Setup swarm, configure managers, add nodes, and setup backup schedule](https://docs.docker.com/engine/swarm/admin_guide/)
 - [Create and manage user and teams](https://docs.docker.com/datacenter/dtr/2.4/guides/admin/manage-users/create-and-manage-teams/)
